@@ -1,2 +1,2 @@
-# Harrison-Haas.github.io
-Example GitHub.io portfolio website
+# Harrison Haas Github Page
+The main page for all of Harrison Haas' coding works
