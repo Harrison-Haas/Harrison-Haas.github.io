@@ -1,19 +1,1 @@
-# _config.yml
-title: "Harrison Haas' Github Website"
-description: "Home page for Harrison Haas complete coding works"
-url: "https://harrison-haas.github.io/"
-baseurl: ""
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-header_pages:
-  - about.md
-  - projects.md
-``
 
-minima:
-  skin: classic
-  social_links:
-    - platform: github
-      user_url: https://github.com/Harrison-Haas
