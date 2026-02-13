@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal-mistakes
+# _config.yml
+title: "Harrison Haas' Github Website"
+url: "https://harrison-haas.github.io/"
+theme: minima
+
+minima:
+  skin: classic
+  social_links:
+    - platform: github
+      user_url: https://github.com/Harrison-Haas
