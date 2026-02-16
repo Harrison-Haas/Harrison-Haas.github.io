@@ -20,7 +20,7 @@ A repository for projects from my Data Science 140: Basics of Data Analysis with
 I hope to get some projects done in Java or R for personal passions of mine soon as well.
 
 ## Navigation
-- [Home](README.md)
+- [Home](index.md)
 - [Projects](projects.md)
 - [Future Work](future.md)
 - [Contact Me](contact.md)
