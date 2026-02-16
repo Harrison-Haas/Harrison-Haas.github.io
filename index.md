@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Harrison Haas GitHub Website
 The main page for all of Harrison Haas’ coding works
 
