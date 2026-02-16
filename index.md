@@ -9,7 +9,7 @@ The main page for all of Harrison Haas’ coding works
 
 <img src="https://github.com/user-attachments/assets/19316834-582b-43ea-b8d5-6859f64fabe3"
      alt="Photo of me"
-     width="160"
+     width="140"
      align="right"
      hspace="15">
 
