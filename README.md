@@ -6,7 +6,9 @@ Hello everyone, My name is Harrison Haas and welcome to my GitHub Page. I am a S
 
 
 <!-- Or using a full/raw URL -->
-<img src="![Senior Picture](https://github.com/user-attachments/assets/19316834-582b-43ea-b8d5-6859f64fabe3)" alt="Photo of me" width="100">
+<img src="https://github.com/user-attachments/assets/19316834-582b-43ea-b8d5-6859f64fabe3"
+     alt="Photo of me"
+     width="220">
 
 
 ## Navigation
