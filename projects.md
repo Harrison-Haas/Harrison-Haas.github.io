@@ -1,12 +1,6 @@
 # Projects
 Past Projects I have worked on
 
-## Navigation
-- [Home](README.md)
-- [Projects](projects.md)
-- [Future Work](future.md)
-- [Contact Me](contact.md)
-
 ## Fall 2025
 [Full Repository](https://github.com/Harrison-Haas/CS140-Fall-2025)
 - [Assignment01](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/1)
@@ -26,3 +20,10 @@ Past Projects I have worked on
 
 ##
 More to come soon!
+
+## Navigation
+- [Home](README.md)
+- [Projects](projects.md)
+- [Future Work](future.md)
+- [Contact Me](contact.md)
+
