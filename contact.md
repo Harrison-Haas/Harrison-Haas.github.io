@@ -1,10 +1,3 @@
----
-layout: default
-title: "Harrison Haas"
-description: ""
----
-
-
 # Contact Me
 How you can get in touch
 
