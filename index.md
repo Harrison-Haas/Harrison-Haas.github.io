@@ -19,5 +19,5 @@ Hello everyone, my name is Harrison Haas and welcome to my GitHub Page. I am a S
 ## Navigation
 - [About](index.md)
 - [Projects](projects.md)
-- [Future](future.md)
-- [Contact](contact.md)
+- [Future Works](future.md)
+- [Contact Me](contact.md)
