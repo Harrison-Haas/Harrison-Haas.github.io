@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## Contact Me
+# Contact Me
 How you can get in touch
 
-### Email
+## Email
 Haash9850@uwec.edu
 
-### Physical Mail
+## Physical Mail
 642 University Drive  
 Bridgman 140  
 Eau Claire, WI 54701
 
-### Navigation
+## Navigation
 - [Home](README.md)
 - [Projects](projects.md)
 - [Future Work](future.md)
