@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Harrison Haas"
+description: ""
 ---
 
 
