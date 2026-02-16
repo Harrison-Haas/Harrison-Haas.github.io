@@ -14,7 +14,7 @@ Bridgman 140
 Eau Claire, WI 54701
 
 ## Navigation
-- [Home](README.md)
+- [Home](index.md)
 - [Projects](projects.md)
 - [Future Work](future.md)
 - [Contact Me](contact.md)
