@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Harrison Haas"
+---
+
 # Future Work
 Projects I plan to work on soon
 
