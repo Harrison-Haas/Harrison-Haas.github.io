@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Future Work
 Projects I plan to work on soon
 
