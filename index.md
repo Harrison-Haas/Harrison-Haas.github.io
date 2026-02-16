@@ -19,7 +19,7 @@ Hello everyone, my name is Harrison Haas and welcome to my GitHub Page. I am a S
 ---
 
 ## Navigation
-- [About](index.md)
+- [Home](index.md)
 - [Projects](projects.md)
 - [Future Work](future.md)
 - [Contact Me](contact.md)
