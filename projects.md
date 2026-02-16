@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Projects
 Past Projects I have worked on
 
