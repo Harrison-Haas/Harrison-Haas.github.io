@@ -24,5 +24,5 @@ Past Projects I have worked on
 - [Assignment00](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment00)
 - [Assignment01](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment01)
 
-##
-More to come
+
+More to come soon!
