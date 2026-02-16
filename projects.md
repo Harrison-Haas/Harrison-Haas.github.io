@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Harrison Haas"
+---
+
 # Projects
 Past Projects I have worked on
 
