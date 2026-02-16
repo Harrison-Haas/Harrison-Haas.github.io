@@ -13,6 +13,8 @@ Past Projects I have worked on
 - [Assignment09](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/9)
 - [Assignment10](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/10)
 - [Final Project](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/CribbageScorer)
+
+
 ## Spring 2026
 [Full Repository](https://github.com/Harrison-Haas/CS150-Spring-2026)
 - [Assignment00](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment00)
