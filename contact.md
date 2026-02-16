@@ -11,6 +11,6 @@ How you can get in touch
 Haash9850@uwec.edu
 
 ## Physical Mail
-642 University Drive 
-Bridgman 140
+642 University Drive \n
+Bridgman 140 \n
 Eau Claire, WI 54701
