@@ -8,6 +8,7 @@ Past Projects I have worked on
 - [Contact Me](contact.md)
 
 ## Fall 2025
+[Full Repository](https://github.com/Harrison-Haas/CS140-Fall-2025)
 - [Assignment01](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/1)
 - [Assignment02](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/2)
 - [Assignment03](https://github.com/Harrison-Haas/CS140-Fall-2025/tree/main/3)
