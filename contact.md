@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Contact Me
 How you can get in touch
 
