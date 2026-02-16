@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Harrison Haas"
+---
+
+
 # Contact Me
 How you can get in touch
 
