@@ -19,6 +19,7 @@ Past Projects I have worked on
 [Full Repository](https://github.com/Harrison-Haas/CS150-Spring-2026)
 - [Assignment00](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment00)
 - [Assignment01](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment01)
+- [Assignment02](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment02)
 
 ## Future Plans
 Check out my [future plans](future.md)!
