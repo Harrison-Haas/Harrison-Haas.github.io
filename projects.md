@@ -17,9 +17,14 @@ Past Projects I have worked on
 
 ## Spring 2026
 [Full Repository](https://github.com/Harrison-Haas/CS150-Spring-2026)
-- [Assignment00](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment00)
-- [Assignment01](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment01)
-- [Assignment02](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignment02)
+- [Assignments](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments)
+  - [Assignment00](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments/Assignment00)
+  - [Assignment01](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments/Assignment01)
+  - [Assignment02](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments/Assignment02)
+  - [Assignment03](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments/Assignment03)
+  - [Assignment05](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Assignments/Assignment05)
+- [Projects](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Projects)
+  - [Project A](https://github.com/Harrison-Haas/CS150-Spring-2026/tree/main/Projects/Project%20A) 
 
 ## Future Plans
 Check out my [future plans](future.md)!
